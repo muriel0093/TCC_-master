@@ -1,0 +1,40 @@
+
+.icone_menu{
+    background-size: 1.375rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../../img/icones/bx-menu.svg);
+    display: block;
+
+    margin-right: 1rem;
+
+    width: 3.25rem;
+    height: 3.25rem;
+}
+
+
+.icone_carrinho{
+    background-size: 1.375rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../../img/icones/bx-cart.svg);
+    display: block;
+
+    margin-right: 1rem;
+
+    width: 3.25rem;
+    height: 3.25rem;
+}
+
+.icone_pesquisa{
+    background-size: 1.375rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(../../img/icones/bxs-user.svg);
+    display: block;
+
+    margin-right: 1rem;
+
+    width: 3.25rem;
+    height: 3.25rem;
+}
